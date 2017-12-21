@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frauddetection/frauddetection.iml" filepath="$PROJECT_DIR$/frauddetection/frauddetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software-dev-exercises.iml" filepath="$PROJECT_DIR$/software-dev-exercises.iml" />
+    </modules>
+  </component>
+</project>
